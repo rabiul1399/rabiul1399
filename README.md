@@ -1,7 +1,9 @@
+![Progrmmer](https://i.ibb.co/ZTttTtR/istockphoto-960217844-612x612.jpg)
+
 ### Hi there 👋, Hey , I am Rabiul as a JavaScript Progrommer
 #### Full-Stack Web Developer
 
-![Full-Stack Web Developer](https://i.ibb.co/G5Jc8WW/pexels-luis-gomes-546819.jpg)
+
 
 I am a Full-Stack Web Developer. My professional experience include 1 year of web-related-technologies like HTML, CSS, JavaScript ,React JS ,node.js, MongoDB, express, and I have deployed multiple application. My strengths are that I am self-motivated, hard-working and a disciplined person.
 
