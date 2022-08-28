@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rabiul</h1>
+<h1 align="center">Hi 👋, I'm RabiuL</h1>
 <h3 align="center">A passionate Full-Stack web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiul1399&label=Profile%20views&color=0e75b6&style=flat" alt="rabiul1399" /> </p>
@@ -15,11 +15,12 @@
 
 - 📫 How to reach me **www.rabiulislam3808@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YNkpMjuuy8RFB_S0teqeZ9DrUSCxJ0S6/view?usp=sharing](https://drive.google.com/file/d/1YNkpMjuuy8RFB_S0teqeZ9DrUSCxJ0S6/view?usp=sharing)
+- 📄 Know about my Resume [https://drive.google.com/file/d/1YNkpMjuuy8RFB_S0teqeZ9DrUSCxJ0S6/view?usp=sharing](https://drive.google.com/file/d/1YNkpMjuuy8RFB_S0teqeZ9DrUSCxJ0S6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@rabiuli8198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rabiuli8198" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rabiul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabiul islam" height="30" width="40" /></a>
 <a href="https://fb.com/rabiul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabiul islam" height="30" width="40" /></a>
 <a href="https://instagram.com/webdeveloper_rabi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdeveloper_rabi98" height="30" width="40" /></a>
 </p>
