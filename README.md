@@ -1,5 +1,5 @@
 ![Progrmmer](https://i.ibb.co/ZTttTtR/istockphoto-960217844-612x612.jpg)
-<h1 align="center">Hi there 👋, Hey , I'm Rabiul </h1>
+<h1 align="center">Hi there 👋, I'm Rabiul </h1>
 <h3 align="center">MERN Stack Developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/rabiul1399)  
