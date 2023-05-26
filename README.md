@@ -2,7 +2,6 @@
 <h1 align="center">Hi there 👋, Hey , I'm Rabiul </h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiul1399&label=Profile%20views&color=0e75b6&style=flat" alt="rabiul1399" /> </p>
 ![Profile views](https://gpvc.arturio.dev/rabiul1399)  
 
 I am a Full-Stack Web Developer. My professional experience include 1 year of web-related-technologies like HTML, CSS, JavaScript ,React JS ,node.js, MongoDB, express, and I have deployed multiple application. My strengths are that I am self-motivated, hard-working and a disciplined person.
